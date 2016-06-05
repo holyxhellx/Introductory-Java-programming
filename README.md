@@ -5,8 +5,6 @@ Kursusnavn (dansk):	Introductory Programming
 Kursusnavn (engelsk):	Introductory Programming
 Semester:	Efterår 2015
 
-You don't need any programming experience to take this course.
------
 Study structure
 This course is mandatory for students who are enrolled in Master of Science in IT, the Design track on SDT
 
